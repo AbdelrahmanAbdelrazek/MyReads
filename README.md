@@ -2,7 +2,7 @@
 
 This is a bookshelf app that allows you to select and categorize books you have read, are currently reading, or want to read. Also you can search and add new books to your collection.
 
-This is the part of the assesment of Udacity's React Developer nanodegree.
+This is part of the assesment of Udacity's React Developer nanodegree.
 You can find the starter code here: https://github.com/udacity/reactnd-project-myreads-starter
 
 ## Installation
